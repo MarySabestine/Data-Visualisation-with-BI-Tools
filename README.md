@@ -57,6 +57,7 @@ The data type was a mix of date-time, text, integers
     RETURN
     MAXX(TopAgentTable, 'Call Center Data'[Agent])
 
-# Insight
+# Data visualization
+
 
     
