@@ -12,6 +12,7 @@ Overall customer satisfaction, Overall calls answered/abandoned, Calls by time, 
 
 # Technical Details
 The dataset is a dummy gotten from forage job stimulation.
+![](https://github.com/MarySabestine/Data-Visualisation-with-BI-Tools/blob/main/CC%20Dataset.png)
 
   # Data model relationship
   ![](https://github.com/MarySabestine/Data-Visualisation-with-BI-Tools/blob/main/model%20view.png)
